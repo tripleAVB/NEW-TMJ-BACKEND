@@ -1,6 +1,6 @@
-# nuber-server
+# tmj-server
 
-Server for the (N)Uber Clone Course on Nomad Academy. GraphQL, Typescript, NodeJS
+Server for the TMJ app. GraphQL, Typescript, NodeJS
 
 [Learn how to make this](https://academy.nomadcoders.co/p/nuber-fullstack-javascript-graphql-course/)
 
